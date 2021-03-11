@@ -1,77 +1,48 @@
 module.exports = {
-  title: 'Elena Wonder Girl',
+  title: 'Elena Volpato',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
+  description: 'using theme Mediumish theme with VuePress and Forestry',
+  //logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
-      },
-      {
       name: 'Elena',
-      avatar: '',
-      link: 'https://wowthemes.net/donate',
+      //avatar: '',
+      link: 'https://www.linkedin.com/in/elenavolpato/',
       linktext: 'Follow',
       },
  
-      {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
+      
     ],
     footer: {
       contact: [
-        {
-          type: 'codepen',
-          link: '#',
-        },
-        {
-          type: 'facebook',
-          link: '#',
-        },
-        {
+        /*{
           type: 'github',
           link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
-        },
+        },*/
         {
           type: 'gitlab',
-          link: '#',
+          link: '#https://gitlab.com/elena_volpato',
         },
-        {
-          type: 'instagram',
-          link: '#',
-        },
+        
         {
           type: 'linkedin',
-          link: '#',
+          link: 'https://www.linkedin.com/in/elenavolpato/',
         },
         {
           type: 'mail',
-          link: '#',
+          link: 'elena.volpato@gmail.com',
         },
-        {
-          type: 'messenger',
-          link: '#',
-        },
-        {
-          type: 'phone',
-          link: '#',
-        },
+      
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/valpatuska',
         },
         {
           type: 'web',
-          link: '#',
+          link: 'www.elenavolpato.me',
         }
       ],
       copyright: [
@@ -87,15 +58,9 @@ module.exports = {
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: ''
     },
-    comment: {
-      service: 'disqus',
-      shortname: 'demowebsite',
-    },
-    newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
-    },
+   
     feed: {
       canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
     },
