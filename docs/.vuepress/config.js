@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Elena Wonder Girl',
   base: '/',
   dest: 'public',
   description: 'Mediumish theme with VuePress and Forestry',
@@ -13,6 +13,13 @@ module.exports = {
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
+      {
+      name: 'Elena',
+      avatar: '',
+      link: 'https://wowthemes.net/donate',
+      linktext: 'Follow',
+      },
+ 
       {
         name: 'John Doe',
         avatar: '/assets/img/avatar.png',

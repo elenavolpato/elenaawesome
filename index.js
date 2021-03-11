@@ -17,6 +17,10 @@ module.exports = themeConfig => {
         text: 'Tags',
         link: '/tag/',
       },
+      {
+        text: 'Wikipedia',
+        link: 'https://wikipedia.org',
+      },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
