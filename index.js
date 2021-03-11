@@ -11,7 +11,7 @@ module.exports = themeConfig => {
     nav: themeConfig.nav || [
       {
         text: 'about me',
-        link: '/about/REAME.md',
+        link: '/about/README.md',
       },
       {
         text: 'contact me',
