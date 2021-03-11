@@ -10,16 +10,16 @@ module.exports = themeConfig => {
     logo: '/assets/img/logo.png',
     nav: themeConfig.nav || [
       {
-        text: 'Blog',
-        link: '/',
+        text: 'about me',
+        link: '/about/REAME.md',
       },
       {
-        text: 'Tags',
-        link: '/tag/',
+        text: 'contact me',
+        link: 'https://www.linkedin.com/in/elenavolpato/',
       },
       {
-        text: 'Wikipedia',
-        link: 'https://wikipedia.org',
+        text: 'tags',
+        link: '/tags',
       },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
