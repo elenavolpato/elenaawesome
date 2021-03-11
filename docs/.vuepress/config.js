@@ -26,7 +26,6 @@ module.exports = {
           type: 'gitlab',
           link: '#https://gitlab.com/elena_volpato',
         },
-        
         {
           type: 'linkedin',
           link: 'https://www.linkedin.com/in/elenavolpato/',
@@ -35,7 +34,6 @@ module.exports = {
           type: 'mail',
           link: 'elena.volpato@gmail.com',
         },
-      
         {
           type: 'twitter',
           link: 'https://twitter.com/valpatuska',
@@ -61,9 +59,7 @@ module.exports = {
       hostname: ''
     },
    
-    feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
-    },
+   
     smoothScroll: true
   },
 }
