@@ -9,10 +9,10 @@ module.exports = themeConfig => {
   themeConfig = Object.assign(themeConfig, {
     logo: '/assets/img/mylogo.svg',
     logo2: './assets/img/mylogo-white.svg',
-    title: '🦆 Elena Volpato',
+    title: 'Elena Volpato',
     nav: themeConfig.nav || [
       {
-        text: 'blog',
+        text: 'home',
         link: '/',
       },
       {
@@ -45,6 +45,7 @@ module.exports = themeConfig => {
         id: 'post',
         dirname: '_posts',
         path: '/',
+        title: '🦆',
       },
     ],
     frontmatters: [

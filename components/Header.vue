@@ -1,6 +1,7 @@
 <template>
   <section id="header-wrapper">
     <header id="header">
+      <title>Elena Volpato</title>
       <div class="header-wrapper">
         <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
           <div class="container">

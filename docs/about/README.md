@@ -14,6 +14,6 @@ My boyfriend, a great friend and I have a ongoing project together, in which Iâ€
 I am also studying on a daily basis something related to programming. Such as: JavaScript, Vue, HTML, CSS, SQL and so on. I'm using some different online free courses to learn: [scrimba](https://scrimba.com/), [codecademy](https://www.codecademy.com/), [coursera](https://www.coursera.org/), [khan academy](https://www.khanacademy.org/) and some regular search about specifics topics on duckduckgo.
 
 
-You can see my projects [here](create.page).
+You can see my projects [here](/portfolio/).
 
 [email me!](talkto@elenavolpato.me)
