@@ -7,19 +7,25 @@ module.exports = themeConfig => {
    * Default theme configuration
    */
   themeConfig = Object.assign(themeConfig, {
-    logo: '/assets/img/logo.png',
+    logo: '/assets/img/mylogo.svg',
+    logo2: './assets/img/mylogo-white.svg',
+    title: '🦆 Elena Volpato',
     nav: themeConfig.nav || [
       {
-        text: 'about me',
-        link: '/about/README.md',
+        text: 'blog',
+        link: '/',
       },
       {
-        text: 'contact me',
-        link: 'https://www.linkedin.com/in/elenavolpato/',
+        text: 'portfolio',
+        link: '/portfolio/',
+      },
+      {
+        text: 'about me',
+        link: '/about/',
       },
       {
         text: 'tags',
-        link: '/tags',
+        link: '/tag/',
       },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
