@@ -16,4 +16,4 @@ I am also studying on a daily basis something related to programming. Such as: J
 
 You can see my projects [here](/portfolio/).
 
-[email me!](talkto@elenavolpato.me)
+ talk to me: [talkto@elenavolpato.me](talkto@elenavolpato.me)
