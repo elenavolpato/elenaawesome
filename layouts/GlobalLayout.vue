@@ -42,7 +42,7 @@ export default {
 
 <style lang="stylus">
 #vuepress-theme-blog__global-layout
-  word-wrap break-word
+  //word-wrap break-word
 
 .content-wrapper
   padding 160px 15px 80px 15px

@@ -2,7 +2,7 @@ module.exports = {
   title: 'Elena Volpato',
   base: '/',
   logo: './assets/img/mylogo.svg',
-  logo2:'./assets/img/mylogo-white.svg',
+  
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
@@ -45,7 +45,7 @@ module.exports = {
         },
                 {
           type: 'linkedin',
-          link: '#',
+          link: 'https://br.linkedin.com/in/elenavolpato/en-us',
         },
         {
           type: 'mail',

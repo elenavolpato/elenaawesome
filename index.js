@@ -8,7 +8,6 @@ module.exports = themeConfig => {
    */
   themeConfig = Object.assign(themeConfig, {
     logo: '/assets/img/mylogo.svg',
-    logo2: './assets/img/mylogo-white.svg',
     title: 'Elena Volpato',
     nav: themeConfig.nav || [
       {
