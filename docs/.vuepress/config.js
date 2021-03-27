@@ -9,13 +9,13 @@ module.exports = {
     {
       name: 'Elena Volpato',
       avatar: '/assets/img/elena.png',
-      //link: '/assets/img/mylogo.png',
-      //linktext: 'Follow',
+      link: '/assets/img/mylogo.png',
+      linktext: 'Follow',
       }, 
     {
       name: 'Sal',
       avatar: '/assets/img/sal.jpg',
-      //link: '/assets/img/mylogo.png',
+      link: '/assets/img/mylogo.png',
       linktext: 'Follow',
       },
       {
