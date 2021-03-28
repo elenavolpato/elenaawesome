@@ -219,14 +219,18 @@ code
   margin-top: 80px
   display: flex 
   align-items: center
+  text-align: center
   padding: 50px 0
   color: rgba(255, 255, 255, 0.5)
   .contacts
     display flex
-    justify-content: space-between
-    align-items: center
-    margin-left 26rem
-    
+    justify-content space-evenly
+    margin 0 20rem
+            
+  @media (max-width: $MQMobile) 
+    .contacts
+      margin 0 8rem
+  
   a
     color: #fff
     transition: all .2s
