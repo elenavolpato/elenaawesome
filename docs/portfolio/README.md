@@ -18,5 +18,7 @@ My latest project (besides this website) is a weekly web dev challenge from [scr
 
 This was very interesting to do, because it was the first time a used router, which increased greatly the complexity of my projects.
 
-[quiz](https://quiz.elenavolpato.me/#/)
+[Quiz](https://quiz.elenavolpato.me/#/)
+
+[Gitlab repository](https://gitlab.com/elena_volpato/quiz)
 
