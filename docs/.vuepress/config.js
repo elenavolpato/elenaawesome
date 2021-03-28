@@ -2,7 +2,9 @@ module.exports = {
   title: 'Elena Volpato',
   base: '/',
   logo: './assets/img/mylogo.svg',
-  
+  head: [
+    ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }]
+  ],
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
