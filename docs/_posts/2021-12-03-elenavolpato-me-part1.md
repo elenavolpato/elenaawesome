@@ -8,7 +8,7 @@ tags:
   - blog
   - vuepress
 author: Elena Volpato
-featuredimg: '/assets/img/files_website_template.png'
+featuredimg: '/assets/img/elenavolpatomecode.png'
 summary: first learnings on elenavolpato.me
 ---
 

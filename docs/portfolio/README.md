@@ -3,7 +3,7 @@ title: portfolio
 date: 2021-03-12
 tags: 
   - scrimba
-  - #weeklyWebDevChallenge
+  - weeklyWebDevChallenge
   - learning
   - vue2
   - api
@@ -18,8 +18,5 @@ My latest project (besides this website) is a weekly web dev challenge from [scr
 
 This was very interesting to do, because it was the first time a used router, which increased greatly the complexity of my projects.
 
-image here
+[quiz](https://quiz.elenavolpato.me/#/)
 
-[link]()
-
-to see my other projects, [click here.]()
