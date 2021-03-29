@@ -12,26 +12,26 @@ author: Elena Volpato
 featuredimg: '/assets/img/quiz.png'
 summary: creating my portfolio - the quiz challenge
 ---
-While constructing this website, one of the ideas was to put the projects I'm working on, or finished ones, in the portfolio. Most of my projects so far are from [scrimba's weekly web dev challenge](https://scrimba.com/learn/weeklychallenge). I have done some easier ones like the emoji rating and a validation form (which I will post here soon). But I decided to finish the most complex one I had made and post it first: [the quiz.](https://quiz.elenavolpato.me/#/)
+While building this website, one of the ideas was to put the projects I'm working on, or finished ones, in the portfolio. Most of my projects so far are from [scrimba's weekly web dev challenge](https://scrimba.com/learn/weeklychallenge). I have done some easier ones like the emoji rating and a validation form (which I will post here soon). But I decided to finish the most complex one I had made and post it first: [the quiz.](https://quiz.elenavolpato.me/#/)
 
 But first, I had to finish it - some features where still not working - and then put it online. I made this project from scratch, and it was the first one I used **vue router** to create a static page. That means, everything you see is only one page (a static page), but it looks like many different pages, doesn't it? But how does it work exactly? 
 
-Well, [vue](https://vuejs.org) allows you to create multiple components, these components will appear acording to the "conditions" I created. For instance, when you click on the **"Go to Quiz!"** button, a component called **"questions.vue"** is filled with the theme(dogs or the Zelda games) you've chosen and shows you the quiz based on another file that contains the questions data. 
+Well, [vue](https://vuejs.org) allows you to create multiple components, these components will appear according to the "conditions" I created. For instance, when you click on the **"Go to Quiz!"** button, a component called **"questions.vue"** is filled with the theme(dogs or the Zelda games) you've chosen and shows you the quiz based on another file that contains the questions data. 
 
 It's like everything is there, but your can only see it when you request it. 🤓
 
-The other challenge was to put it online: just like _elenavolpato.me_ I hosted it in [gitlab pages](https://docs.gitlab.com/ee/user/project/pages/) and used my domain in [gandi.net.](https://www.gandi.net/en-US). Until now I had only worked on projects locally, and putting it online meant understanding configs from gitlab and git concepts it self(more on that later). 
+The other challenge was to put it online: just like _elenavolpato.me_ I hosted it in [gitlab pages](https://docs.gitlab.com/ee/user/project/pages/) and used my domain in [gandi.net.](https://www.gandi.net/en-US). Until now I had only worked on projects locally, and putting it online meant understanding configs from gitlab and git concepts itself(more on that later). 
 
-To post something online first you have "build" it. It meands the code you wrote is compiled into only one file and saved on a repository(or directory). The thing is, my vue configurations where saving it on a dist/ repository. And gitlab only creates your page when your compiled file is saved on a repository named **public/.** So, Edgar (the boyfriend and experienced developer 💜) helped me to find this out and we added this on the script on **.gitlab-ci.yml** config file:
+To post something online first you have "build" it. It means the code you wrote is compiled into only one file and saved in a folder(or directory). The thing is, my vue configurations where saving it in a dist/ folder. And gitlab only creates your page when your compiled file is saved in a folder named **public/.** So, Edgar (the boyfriend and experienced developer 💜) helped me figure this out and we added this in the script in **.gitlab-ci.yml** file:
 
 ```
 script:
-  - cp -r docs/.vuepress/dist/* public/
+- cp -r docs/.vuepress/dist/* public/
 ```
 
-What it does is to copy(cp) the files compiled from the wrong place(docs/.vuepress/dist/*) to the  right one (public/). With that, voilá! It is online now!
+What it does is to copy(cp) the files compiled from the wrong place(docs/.vuepress/dist/*) to the right one (public/). With that, voilá! It is online now!
 
-I'm planning to make this a quiz maker with no code knowledge required, for now, if you wish to create your quiz you gotta know some code and have a gitlab page, [clone the repository](https://gitlab.com/elena_volpato/quiz) and edit the json file(**"questions.js"**).
+I'm planning to make this a quiz maker with no code knowledge required,. But for now, if you wish to create your quiz you gotta know some code and have a gitlab page, [clone the repository](https://gitlab.com/elena_volpato/quiz) and edit the json file(**"questions.js"**).
 
 
 
