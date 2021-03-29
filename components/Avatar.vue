@@ -15,9 +15,8 @@
           <NavLink
             v-if="author.name === $frontmatter.author"
             :link="author.link"
-            class="btn btn-sm btn-outline-dark"
-            >{{ author.linktext }}</NavLink
-          >
+            ><!--- {{ author.linktext }} -->
+          </NavLink>
         </div>
       </div>
     </span>
