@@ -7,6 +7,7 @@ tags:
   - vue 2
   - blog
   - vuepress
+  - git
 author: Elena Volpato
 featuredimg: '/assets/img/elenavolpatomecode.png'
 summary: first learnings on elenavolpato.me
