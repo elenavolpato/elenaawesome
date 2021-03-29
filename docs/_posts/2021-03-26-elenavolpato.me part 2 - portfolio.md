@@ -18,7 +18,7 @@ But first, I had to finish it - some features where still not working - and then
 
 Well, [vue](https://vuejs.org) allows you to create multiple components to create pages. What Vue Router does is: link a browser's URL address to a single component allowing you to see a page. In my quiz, each page has one component. For instance, when you select the theme "dogs", and then click on the **Go to Quiz!** button, the URL changes to:
 
-**https://quiz.elenavolpato.me/#/quiz/1**
+![changed URL](/assets/img/urlchange.png)
 
 This happens because there is a path linked to the component that creates this page.
 
