@@ -10,13 +10,13 @@ tags:
 
 author: Elena Volpato
 featuredimg: '/assets/img/quiz.png'
-summary: creating my portfolio - the quiz challenge
+summary: Creating my portfolio - the quiz challenge
 ---
 While building this website, one of the ideas was to put the projects I'm working on, or finished ones, in the portfolio. Most of my projects so far are from [scrimba's weekly web dev challenge](https://scrimba.com/learn/weeklychallenge). I have done some easier ones like the emoji rating and a validation form (which I will post here soon). But I decided to finish the most complex one I had made and post it first: [the quiz.](https://quiz.elenavolpato.me/#/)
 
 But first, I had to finish it - some features where still not working - and then put it online. I made this project from scratch, and it was the first one I used [Vue Router](https://router.vuejs.org) to create a static page. That means, everything you see is only one page (a static page), but it looks like many different pages, doesn't it? But how does it work exactly? 
 
-Well, [vue](https://vuejs.org) allows you to create multiple components to create pages. What Vue Router does is: link a browser's URL address to a single component allowing you to see a page. In my quiz, each page has one component. For instance, when you select the theme "dogs", and then click on the **Go to Quiz!** button, the URL changes to:
+Well, [Vue](https://vuejs.org) allows you to create multiple components to create pages. What Vue Router does is: link a browser's URL address to a single component allowing you to see a page. In my quiz, each page has one component. For instance, when you select the theme "dogs", and then click on the **Go to Quiz!** button, the URL changes to:
 
 ![changed URL](/assets/img/urlchange.png)
 
