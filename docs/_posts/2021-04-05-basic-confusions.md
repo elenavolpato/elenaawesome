@@ -27,7 +27,7 @@ And then, when I searched for "web framework". It felt like light at the end of 
 
 > _A web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web._ [Wikipedia](https://en.wikipedia.org/wiki/Web_framework)
 
-I decided to ignore the terms "web resources, services and APIs" and focus on the last sentence, the one that really explained it all to me: **"a standard way to build and deploy web applications".** From this, I understood that learning a framework such as [Vue](https://vuejs.org) - the one behind elenavolpato.me - is like learning the correct way to fill the blanks, and make it work for my needs. An, in despite of the "standard" sounding very restictive, I've been able to personalize it as I wish and learn a lot from its possibilities.
+I decided to ignore the terms "web resources, services and APIs" and focus on the last sentence, the one that really explained it all to me: **"a standard way to build and deploy web applications".** From this, I understood that learning a framework such as [Vue](https://vuejs.org) - the one behind elenavolpato.me - is like learning the correct way to fill the blanks, and make it work for my needs. And, in despite of the "standard" sounding very restrictive, I've been able to personalize it as I wish and learn a lot from its possibilities.
 
 
 
