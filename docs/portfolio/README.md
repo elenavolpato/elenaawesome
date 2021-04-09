@@ -20,5 +20,5 @@ This was very interesting to do, because it was the first time a used router, wh
 
 [Quiz](https://quiz.elenavolpato.me/#/)
 
-[Gitlab repository](https://gitlab.com/elena_volpato/quiz)
+My [Gitlab](https://gitlab.com/elena_volpato)
 

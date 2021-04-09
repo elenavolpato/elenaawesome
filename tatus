@@ -1,0 +1,61 @@
+[1mdiff --git a/components/Header.vue b/components/Header.vue[m
+[1mindex b25a075..8f6333d 100644[m
+[1m--- a/components/Header.vue[m
+[1m+++ b/components/Header.vue[m
+[36m@@ -1,12 +1,11 @@[m
+ <template>[m
+   <section id="header-wrapper">[m
+     <header id="header">[m
+[31m-      <title>Elena Volpato</title>[m
+       <div class="header-wrapper">[m
+         <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">[m
+           <div class="container">[m
+[31m-            <NavLink link="/" class="navbar-brand"[m
+[31m-              ><img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}[m
+[32m+[m[32m            <NavLink link="/" class="navbar-brand">[m[41m [m
+[32m+[m[32m              <!--- <img :src="$withBase($themeConfig.logo)"/>--> 🦆   {{  $site.title }} 🦆[m[41m [m
+             </NavLink>[m
+             <button[m
+               class="navbar-toggler"[m
+[1mdiff --git a/docs/.vuepress/config.js b/docs/.vuepress/config.js[m
+[1mindex 95ebf4a..f3f7562 100644[m
+[1m--- a/docs/.vuepress/config.js[m
+[1m+++ b/docs/.vuepress/config.js[m
+[36m@@ -1,8 +1,8 @@[m
+ module.exports = {[m
+   title: 'Elena Volpato',[m
+   base: '/',[m
+[31m-  logo: './assets/img/mylogo.svg',[m
+[31m-  logo2:'./assets/img/mylogo-white.svg',[m
+[32m+[m[32m  //logo: './assets/img/mylogo.svg',[m
+[32m+[m[41m  [m
+   theme: require.resolve('../../'),[m
+   themeConfig: {[m
+   authors: [[m
+[1mdiff --git a/index.js b/index.js[m
+[1mindex 5ba17cc..33e90ab 100644[m
+[1m--- a/index.js[m
+[1m+++ b/index.js[m
+[36m@@ -7,8 +7,7 @@[m [mmodule.exports = themeConfig => {[m
+    * Default theme configuration[m
+    */[m
+   themeConfig = Object.assign(themeConfig, {[m
+[31m-    logo: '/assets/img/mylogo.svg',[m
+[31m-    logo2: './assets/img/mylogo-white.svg',[m
+[32m+[m[32m    //logo: '/assets/img/mylogo.svg',[m
+     title: 'Elena Volpato',[m
+     nav: themeConfig.nav || [[m
+       {[m
+[1mdiff --git a/styles/index.styl b/styles/index.styl[m
+[1mindex 15301ce..1ae1451 100644[m
+[1m--- a/styles/index.styl[m
+[1m+++ b/styles/index.styl[m
+[36m@@ -9,7 +9,7 @@[m
+ [m
+ @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700&display=swap")[m
+ [m
+[31m-$green = #03a87c[m
+[32m+[m[32m$green = rgb(166,134,0)[m
+ $color_1 = rgba(0, 0, 0, 0.54)[m
+ $color_2 = rgba(0, 0, 0, 0.44)[m
+ $color_3 = rgba(0, 0, 0, 0.8)[m
