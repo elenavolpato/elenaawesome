@@ -19,7 +19,7 @@ Since I started learning to code I haven't been able to find a simple explanatio
 > _In computer programming, a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software._
  
 
-<img width="100%" style="float: center; margin: 0.5rem;" src="https://media.giphy.com/media/g4vNc90JyqfSXr711f/giphy.gif" alt="Obama gif Man thats shady">
+<img width="90%" style="float: center;" src="https://media.giphy.com/media/g4vNc90JyqfSXr711f/giphy.gif" alt="Obama gif Man thats shady">
 
 
 Then, I got to some theoretical explanations that got me digging about [high- and low-level operations](https://en.wikipedia.org/wiki/High-_and_low-level), [difference between a library and a framework](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/), Inversion of Control (good knowledge to have, but not the way to go for a practical understanding). So I stopped, scraped all of that (literally - I had a bunch of text written and realized it was going nowhere) and started over. 
