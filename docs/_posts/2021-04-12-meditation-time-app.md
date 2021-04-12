@@ -14,15 +14,15 @@ summary: I decided to make a meditation timer app with the customizations I miss
 --- 
 Too many changes happened to me in 2020 - I changed my career path completely, ended a 10 year relationship, moved to another city, and also the pandemic started. For those reasonsmainly, for over an year I've been meditating regularly - not everyday as I supposed to, but quite often - and it has helped keep my head in place. 
 
-To start meditating I looked for some meditation apps. I started with [Headspace.](https://www.headspace.com)I did their courses on anxiety and happiness, used the daily meditations and really enjoyed it for a long time. But, as I gained confidence as a meditator, the over explanatory method from Headspace started to bother me. 
+To start meditating I looked for some meditation apps. I started with [Headspace.](https://www.headspace.com)I did their courses on anxiety and happiness, used the daily meditations and really enjoyed it for a long time. But, as I gained confidence as a meditator, the overexplanatory method from Headspace started to bother me. 
 
 Then, I decided to meditate without any apps. That definitively did not work. I wasn't able to build an habit without something to keep track of myself.
 
   <img width="50%" style="float: right; margin: 0.5rem;" src="https://media.giphy.com/media/H7kfFDvD9HSYGRbvid/giphy.gif" alt="meditating">
 
-After that, I tried [Atom](https://www.theatom.app/). I loved this one! The voice of the man guiding you is so soothing, its content is very well written and fun, and it has an interesting gamification feature with points that allow you to plant a tree at the end of each meditation. The problem is it's focused on meditation for beginners, and on making it a habit. So, when you finish the program of twenty something days, it is over. There are no options to continue using the app unless you start over and do it all over again. 
+After that, I tried [Atom](https://www.theatom.app/). I loved this one! The voice of the man guiding you is so soothing, its content is very well written and fun, and it has an interesting gamification feature with points that allow you to plant a tree at the end of each meditation. The problem is it's focused on meditation for beginners, and on making it a habit. So, when you finish the program of twenty something days, that's it! There are no options to continue using the app unless you start over and do it the program all over again. 
 
-They do suggest other free meditation apps, such as [Plum Village](https://plumvillage.app/),the one I've been using and has excellent guided meditations and solved the over explanation dilemma I was having with Headspace. But I still would like other personalizations for a silent meditation, such as: choosing the bell sound, to be able to put interval bells, have a white-noise on the background, and, most importantly, save the amount of time I have meditated being counted as in Headspace app.
+They do suggest other free meditation apps, such as [Plum Village](https://plumvillage.app/),the one I've been using and has excellent guided meditations and solved the overexplanation dilemma I was having with Headspace. But I still would like other personalizations for a silent meditation, such as: choosing the bell sound, to be able to put interval bells, have a white-noise on the background, and, most importantly, save the amount of time I have meditated being counted as in Headspace app.
 
 ## ...to a meditation app
 
