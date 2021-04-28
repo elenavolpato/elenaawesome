@@ -12,8 +12,7 @@ author: Elena Volpato
 featuredimg: '/assets/img/meditateapp.jpg'
 summary: The meditation timer app is finally here!
 ---
-After over 2 weeks working on the app, it finally has the basic features I planned for it! 😃😃😃  
-
+After over 2 weeks working on the app, it finally has the basic features I planned for it! 😃😃😃      
 I'm soooo excited to be realeasing this! I learned a lot from writing this and also made a lot of mistakes along the way - obviously. 
 
 The idea was to build a meditation timer and I focused first on three features that bothered me in other apps:
@@ -27,8 +26,11 @@ It was a lot of fun, and I'm starting to really feel like a developer.
 
 <img width="100%" style=" margin: 0.5rem;" src="https://media.giphy.com/media/l4JySAWfMaY7w88sU/giphy.gif" alt="celebrating brooklyn 99">
 
+Thanks to Elisa, Beiro, Denis and Vini - the family and friends who put up with the testing, my weird excitement and gave amazing suggestions.
+And the most special thanks to Edgar, who listened to the most stupid questions, helped me come up with solutions and still has so much patience with my learning. 💜
+
 Hope you enjoy the app!
 
-If you have any ideas, suggestions or bugs write to me [talkto@elenavolpato.me](talkto@elenavolpato.me).
-The source code is [here](https://gitlab.com/elena_volpato/meditate).
+If you have any ideas, suggestions or bugs write to me [talkto@elenavolpato.me](talkto@elenavolpato.me).   
+It is a open source app, so the source code is [here](https://gitlab.com/elena_volpato/meditate).
 
