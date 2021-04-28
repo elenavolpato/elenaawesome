@@ -43,6 +43,7 @@ export default {
       type: String,
     },
   },
+
   computed: {
     resolvedDate() {
       return dayjs(this.date).format(
