@@ -1,24 +1,35 @@
 ---
 title: portfolio
-date: 2021-03-12
-tags: 
-  - scrimba
-  - weeklyWebDevChallenge
-  - learning
-  - vue2
-  - api
-  - JavaScript
-
-author: Elena Volpato
-featuredimg: ''
-summary: first time using an API
+summary: My projects
 ---
 
-My latest project (besides this website) is a weekly web dev challenge from [scrimba](https://scrimba.com/) is a quiz maker. The challenge itself was to make a simple quiz, and validate answers. however, I took it a bit further and made 2 theme for you to choose from and a way for you to make your own quizes. You can check it out here.
+
+<a href="https://meditate.elenavolpato.me/"> <img width="40%" style="float: right; padding-left: 4px;" src="/assets/img/Screenshot from 2021-04-28 13-31-37.png" alt="print from the meditation app"> </a>
+
+## meditation timer app
+
+I made this meditations timer app and wrote about it [here](https://www.elenavolpato.me/2021/04/27/its-here/). This gave me a lot of confidence as front end developer and also a lot of fun! 
+
+  Go to [meditation timer app](https://meditate.elenavolpato.me/)
+
+  [Source Code](https://gitlab.com/elena_volpato/meditate)
+
+
+_______
+
+
+## quiz 
+
+<a href="https://quiz.elenavolpato.me/#/"><img width="40%" style="float: right; " src="/assets/img/Screenshot from 2021-04-28 13-42-09.png" alt="print from the quiz"> </a>
+
+This project is a weekly web dev challenge from [scrimba](https://scrimba.com/) is a quiz maker. The challenge itself was to make a simple quiz, and validate answers. However, I took it a bit further and made 2 themes for you to choose from.
 
 This was very interesting to do, because it was the first time a used router, which increased greatly the complexity of my projects.
 
-[Quiz](https://quiz.elenavolpato.me/#/)
+  Go to [quiz](https://quiz.elenavolpato.me/#/)
 
-My [Gitlab](https://gitlab.com/elena_volpato)
+  [Source Code](https://gitlab.com/elena_volpato/quiz)
+
+
+**Checkout my [Gitlab](https://gitlab.com/elena_volpato)**
 
