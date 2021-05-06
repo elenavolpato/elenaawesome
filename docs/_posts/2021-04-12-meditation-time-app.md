@@ -30,7 +30,8 @@ So, this week I started working on a meditation app with some of the features I 
 ___
 
 #### Other resources I used:
-[Calm](https://www.calm.com) 
+[Calm](https://www.calm.com)    
+
 [Meditate timer](https://meditation-timer.link/) - This one is actually an open source PWA(Progressive Web App) by [benji6](https://github.com/benji6/meditation-timer) and uses [Typescript](https://www.typescriptlang.org/) and very easy to use. I also used this one as an inspiration for my own app.
 
 I also have been reading [_The mind Illuminated_](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985) book by John Yates, an amazing guide on meditation! If you are interested in this subject, I suggest you start with this book and the Atom app.

@@ -14,13 +14,16 @@
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
         <hr class="menu-divider" />
         <ul v-if="$themeConfig.nav" class="mobile-nav">
-          <li
+          <!-- routerlink  -->
+          <router-link
             v-for="item in $themeConfig.nav"
             :key="item.text"
             class="mobile-nav-item"
+            :to="item.link"
+            tag="li"
           >
             <NavLink :link="item.link">{{ item.text }}</NavLink>
-          </li>
+          </router-link>
           <li class="mobile-nav-item">
             <Feed />
           </li>

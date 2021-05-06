@@ -4,7 +4,7 @@ date: '2021-3-26'
 tags: 
 - git
 - gitlab
-- Vue 2
+- vue 2
 - public
 - dist
 
