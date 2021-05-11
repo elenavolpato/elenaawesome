@@ -24,18 +24,6 @@ module.exports = {
         link: '/assets/img/mylogo.png',
         linktext: 'Follow',
       },
-      {
-        name: 'Sal',
-        avatar: '/assets/img/sal.jpg',
-        link: '/assets/img/mylogo.png',
-        linktext: 'Follow',
-      },
-      {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
     ],
     footer: {
       contact: [
