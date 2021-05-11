@@ -3,22 +3,32 @@ module.exports = {
   base: '/',
   logo: './assets/img/mylogo.svg',
   head: [
-    ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }]
+    ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }],
+    ["link", { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '194x194', href: '/favicon-194x194.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+    ['link', { rel: 'mask-icon', color: '#af8c22', href: '/safari-pinned-tab.svg' }],
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "elenavolpato" }],
+    ["meta", { name: "application-name", content: "elenavolpato" }],
+    ["meta", { name: "msapplication-TileColor", content: "#ffc40d" }],
+    ["meta", { name: "theme-color", content: "#ffffff" }],
   ],
   theme: require.resolve('../../'),
   themeConfig: {
-  authors: [
-    {
-      name: 'Elena Volpato',
-      avatar: '/assets/img/elena.png',
-      link: '/assets/img/mylogo.png',
-      linktext: 'Follow',
-      }, 
-    {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: '/assets/img/mylogo.png',
-      linktext: 'Follow',
+    authors: [
+      {
+        name: 'Elena Volpato',
+        avatar: '/assets/img/elena.png',
+        link: '/assets/img/mylogo.png',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Sal',
+        avatar: '/assets/img/sal.jpg',
+        link: '/assets/img/mylogo.png',
+        linktext: 'Follow',
       },
       {
         name: 'John Doe',
@@ -45,7 +55,7 @@ module.exports = {
           type: 'gitlab',
           link: 'https://gitlab.com/elena_volpato',
         },
-                {
+        {
           type: 'linkedin',
           link: 'https://br.linkedin.com/in/elenavolpato/en-us',
         },
