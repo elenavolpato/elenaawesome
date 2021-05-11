@@ -44,7 +44,7 @@ module.exports = themeConfig => {
         id: 'post',
         dirname: '_posts',
         path: '/',
-        title: '🦆',
+        title: ' ',
       },
     ],
     frontmatters: [
