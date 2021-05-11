@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Elena Volpato',
+  title: 'elena volpato',
   base: '/',
   logo: './assets/img/mylogo.svg',
   head: [

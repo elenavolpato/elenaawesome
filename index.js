@@ -8,7 +8,7 @@ module.exports = themeConfig => {
    */
   themeConfig = Object.assign(themeConfig, {
     logo: '/assets/img/mylogo.svg',
-    title: 'Elena Volpato',
+    title: 'elena volpato',
     nav: themeConfig.nav || [
       {
         text: 'home',
@@ -44,7 +44,7 @@ module.exports = themeConfig => {
         id: 'post',
         dirname: '_posts',
         path: '/',
-        title: ' ',
+        title: 'home ',
       },
     ],
     frontmatters: [
