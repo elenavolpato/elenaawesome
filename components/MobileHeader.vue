@@ -3,7 +3,6 @@
     <div class="mobile-header-bar">
       <div class="mobile-header-title">
         <NavLink link="/" class="mobile-home-link navbar-brand">
-          <!---<img :src="($withBase)($themeConfig.logo)"> -->
           🦆 {{ $site.title }}
         </NavLink>
         <component
@@ -14,7 +13,6 @@
       <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
         <hr class="menu-divider" />
         <ul v-if="$themeConfig.nav" class="mobile-nav">
-          <!-- routerlink  -->
           <router-link
             v-for="item in $themeConfig.nav"
             :key="item.text"
