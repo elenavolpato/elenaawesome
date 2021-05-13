@@ -1,6 +1,6 @@
 ---
-title: portfolio
-summary: My projects
+title: projects
+
 ---
 
 
@@ -30,6 +30,7 @@ This was very interesting to do, because it was the first time a used router, wh
 
   [Source Code](https://gitlab.com/elena_volpato/quiz)
 
+_____
 
-**Checkout my [Gitlab](https://gitlab.com/elena_volpato)**
+#### Checkout my [Gitlab page](https://gitlab.com/elena_volpato)
 

@@ -15,8 +15,8 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'portfolio',
-        link: '/portfolio/',
+        text: 'projects',
+        link: '/projects/',
       },
       {
         text: 'about me',
