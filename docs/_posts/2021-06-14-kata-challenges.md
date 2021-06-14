@@ -16,10 +16,11 @@ Anyway, last week I participated on online event: the [Hack Evening](https://www
 
 After some a short presentation and a nice chat, I started working on the challenge itself, which was:
 
-You were given a width and a length of a rectangle. The challenge was to build a code that would provide a list with the minimum amount of squares that are possible inside this rectangle. More information about the challenge [here](https://www.codewars.com/kata/55466989aeecab5aac00003e/).
+You were given a width and a length of a rectangle. The challenge was to build a code that would provide a list with the minimum amount of squares that are possible inside this rectangle, like in the example image below. 
 
 <img width="80%" style="float: center; margin-left: 1rem" src="/assets/rectangle.png" alt="The example from the kata challenge"> 
 
+More information about the challenge [here](https://www.codewars.com/kata/55466989aeecab5aac00003e/).
 And this was my code:
 ``` javascript 
 function sqInRect(length, width) {
