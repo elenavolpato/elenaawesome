@@ -1,3 +1,15 @@
+const autometa_options = {
+  site: {
+    name   : 'elenavolpato',
+    twitter: 'valpatuska',
+  },
+  author: {
+    name   : 'Elena Volpato',
+    twitter: 'valpatuska',
+  },
+  canonical_base: 'https://elenavolpato.me',
+};
+
 module.exports = {
   title: 'elena volpato',
   base: '/',
@@ -16,6 +28,9 @@ module.exports = {
     ["meta", { name: "theme-color", content: "#ffffff" }],
   ],
   theme: require.resolve('../../'),
+  plugins: [
+    [ 'autometa', autometa_options ]
+  ],
   themeConfig: {
     authors: [
       {

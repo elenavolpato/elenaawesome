@@ -6,7 +6,7 @@ tags:
   - vaccine
   - codeWars
   - javascript
- 
+image: https://www.elenavolpato.me/assets/Baba.jpg
 author: Elena Volpato
 featuredimg: '/assets/Baba.jpg'
 summary: How did the first week - part 1
