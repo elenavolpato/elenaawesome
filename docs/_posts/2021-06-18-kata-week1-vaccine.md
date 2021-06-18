@@ -9,16 +9,16 @@ tags:
  
 author: Elena Volpato
 featuredimg: '/assets/Baba.jpg'
-summary: How did the first week go - part 1
+summary: How did the first week - part 1
 ---
 
-The first week started with a heat wave here in Berlin, which made it hard to stay at home and get some work done. On Tuesday night I started doing this kata [here](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) about number of likes and templates. I started building my code with some `switch` but that didn't work properly. So I started doing some research on methods to do it in smarter way. And found [this](https://medium.com/devsoonote/codewars-01-who-likes-it-8be9c5362d57) very hard to understand solution with `templates` and `Math.min`. But that seemed a bit far from my own skills.
+The first week started with a heat wave here in Berlin, which made it hard to stay at home and get some work done. So I only started the Tuesday's kata at late night, it was this kata [here](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) about number of likes and templates. I started building my code with some `switch` but that didn't work properly. So I started doing some research on methods to do it in smarter way. And found [this](https://medium.com/devsoonote/codewars-01-who-likes-it-8be9c5362d57) very hard to understand solution with `templates` and `Math.min`. But that seemed a bit far from my own skills.
 
 <img width="30%" style="float: right; margin: 0.5rem;" src="https://media.giphy.com/media/lRtpp6ErXenCGBC2gb/giphy.gif" alt="One shot closer gif">
 
-But then, on Wednesday I had quite a long day and I didn't finish the Tuesday kata and didn't do Wednesday's kata either. That happened because, in the morning I went to an appointment to get vaccinated  **YEY!!!** , and it was a very long and beautiful, but tiring bike ride. So I got home after 4PM completely exhausted. 
+But then, on Wednesday I had quite a long day and I didn't finish the Tuesday kata and didn't do Wednesday's kata either. That happened because, in the morning I went to an appointment to get vaccinated  **YEY!!!** Although it was a very beautiful bike ride, ir was alsovery long tiring. So I got home after 4PM completely exhausted. 
 
-That being said, I only finished the Tuesday's kata on Thursday. I went back to `if else` conditionals that seemed to work for this case. And here is my first solution to the [Who likes this?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) kata:
+That being said, I only finished the Tuesday's kata on Thursday. I went back to `if else` conditionals that seemed to work for this case. And here is my first solution to the [Who likes this?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) kata from [Codewars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript):
 
 ``` javascript
 
@@ -65,4 +65,4 @@ function likes(names) {
 ```
 Hopefully, on the next days I'll be able to do all the katas.
 
-_Just a random picture of my dog, Baunilha(Vanilla, in English) who I miss so much_
+_Just a random picture of my dog, Baunilha(Vanilla, in English) that I miss so much_
