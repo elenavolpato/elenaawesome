@@ -9,7 +9,7 @@ tags:
 image: https://www.elenavolpato.me/assets/Baba.jpg
 author: Elena Volpato
 featuredimg: '/assets/Baba.jpg'
-summary: How did the first week - part 1
+summary: How did the first week go - part 1
 ---
 
 The first week started with a heat wave here in Berlin, which made it hard to stay at home and get some work done. So I only started the Tuesday's kata at late night, it was this kata [here](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) about number of likes and templates. I started building my code with some `switch` but that didn't work properly. So I started doing some research on methods to do it in smarter way. And found [this](https://medium.com/devsoonote/codewars-01-who-likes-it-8be9c5362d57) very hard to understand solution with `templates` and `Math.min`. But that seemed a bit far from my own skills.
