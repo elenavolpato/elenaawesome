@@ -26,9 +26,12 @@
                   :key="item.text"
                   class="nav-item"
                 >
-                  <NavLink :link="item.link" class="nav-link">{{
-                    item.text
-                  }}</NavLink>
+                  <NavLink
+                    :link="item.link"
+                    :is-file="item.isFile"
+                    class="nav-link"
+                    >{{ item.text }}</NavLink
+                  >
                 </li>
                 <SearchBox />
               </ul>

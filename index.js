@@ -23,6 +23,11 @@ module.exports = themeConfig => {
         link: '/about/',
       },
       {
+        text: 'resume',
+        link: '/assets/ResumeElenaVolpato.pdf',
+        isFile: true,
+      },
+      {
         text: 'tags',
         link: '/tag/',
       },

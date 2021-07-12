@@ -1,6 +1,6 @@
 <template>
   <router-link
-    v-if="!isExternal(normalizedlink)"
+    v-if="!isFile && !isExternal(normalizedlink)"
     class=""
     :to="normalizedlink"
     :exact="exact"
@@ -32,11 +32,18 @@ export default {
     link: {
       required: true,
     },
+    isFile: {
+      default: false,
+    },
   },
 
   computed: {
     normalizedlink() {
-      return ensureExt(this.link)
+      if (this.isFile) {
+        return this.link
+      } else {
+        return ensureExt(this.link)
+      }
     },
 
     exact() {
