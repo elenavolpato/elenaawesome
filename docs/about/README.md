@@ -4,13 +4,23 @@ description: A simple page about this site
 
 
 ---
-# about me
-I am 33 years old front end developer living in Brazil. My skills are strategic  planning, problem  solving, process implementation and improvement.  I'm also skilled in HTML, CSS, javascript, vue.js, tailwindCSS, some SQL and some Python. And I am constantly learning new things and I write about it in this page. 😎
 
-I worked for almost 10 years in marketing, and events. In late 2019 I decided to quit my job and become a dog trainer. Then, 2020 hit us with the pandemic and plans changed. I moved from São Paulo to a small town in the countryside of Minas Gerais. With the help of some experienced people I decided to really pursue a programming career. I'm currently living in Europe and applying for remote job opportunities as frontend developer.
+<img width="20%" style="float: left; margin: 1rem;" src="/assets/elena_2021.JPG" alt="elena's photo">
+
+# about me
+
+After over 8 years working as a project manager for corporate events and presentations, in 2020 I decided to change my career completely. I wanted to become a dog trainer, had started studying it and was applying for some companies to work with it. But then, the corona pandemic started and my plans had to change. Then, I turned to a old curiosity I had in programming, and with the help of some friends and my fiancé I started studying Javascript, HTML, CSS and Vue.js. 
+
+I am constantly learning new things and I write about it in this page website. You can also check my meditation app [here](https://meditate.elenavolpato.me/).
+
+I'm currently living in Europe, working on some personal projects and looking for remote job opportunities as a frontend developer.
+
+  
+
 
 _____
 
+##### You can see my projects [here](/projects/)
 ##### Checkout my [Gitlab page](https://gitlab.com/elena_volpato)
-##### You can see my projects [here](/projects/).
-##### Hire me: talkto@elenavolpato.me
+##### Talk to me: talkto@elenavolpato.me
+##### My resume [here](/assets/ResumeElenaVolpato.pdf) 

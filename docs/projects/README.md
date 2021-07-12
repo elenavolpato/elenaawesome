@@ -33,4 +33,6 @@ This was very interesting to do, because it was the first time a used router, wh
 _____
 
 ##### Checkout my [Gitlab page](https://gitlab.com/elena_volpato)
+##### My resume [here](/assets/ResumeElenaVolpato.pdf) 
+
 
